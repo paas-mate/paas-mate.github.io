@@ -15,6 +15,7 @@ sidebar_position: 1
 | kubernetes-images | https://github.com/paas-mate/kubernetes-images/releases |
 | litmus-images     | https://github.com/paas-mate/litmus-images/releases     |
 | openkruise-images | https://github.com/paas-mate/openkruise-images/releases |
+| volcano-images    | https://github.com/paas-mate/volcano-images/releases    |
 # command line tools
 | tool name | download location                                                                               |
 |-----------|-------------------------------------------------------------------------------------------------|
