@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # image mirrors
+
 | image name        | download location                                       |
 |-------------------|---------------------------------------------------------|
 | calico-images     | https://github.com/paas-mate/calico-images/releases     |
@@ -13,10 +14,13 @@ sidebar_position: 1
 | flannel-images    | https://github.com/paas-mate/flannel-images/releases    |
 | kubeovn-images    | https://github.com/paas-mate/kubeovn-images/releases    |
 | kubernetes-images | https://github.com/paas-mate/kubernetes-images/releases |
+| kube-prometheus-images |https://github.com/paas-mate/kube-prometheus-images/releases |
 | litmus-images     | https://github.com/paas-mate/litmus-images/releases     |
 | openkruise-images | https://github.com/paas-mate/openkruise-images/releases |
 | volcano-images    | https://github.com/paas-mate/volcano-images/releases    |
+
 # command line tools
+
 | tool name | download location                                                                               |
 |-----------|-------------------------------------------------------------------------------------------------|
 | iperf3    | [LINK](https://github.com/perf-tool/iperf3/releases/download/latest_docker_image/iperf3.tar.gz) |
